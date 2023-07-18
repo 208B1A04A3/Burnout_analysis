@@ -1,5 +1,5 @@
 # Burnout_analysis
-#Employee Burnout Analysis
+# Employee Burnout Analysis
 
 ->This repository contains the code and data for the employee burnout analysis project. The project aims to analyze a dataset of 22,750 employees to identify factors that contribute to burnout.
 
